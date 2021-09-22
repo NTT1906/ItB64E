@@ -1,6 +1,7 @@
 name: ItB64E
-main: ntt\Main
+main: itb64e\ItB64E
 version: 1.0.0
 api: 3.0.0
 load: POSTWORLD
 author: NTT
+extensions: gd
